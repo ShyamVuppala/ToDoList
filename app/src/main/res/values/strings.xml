@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="title_todotask_detail">ToDoTask Detail</string>
+    <string name="action_settings">settings</string>
+    <string name="action_add_task">add task</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_create_to_do_task">CreateToDoTaskActivity</string>
+    <string name="action_cancel_task">Cancel Task</string>
+    <string name="action_save_task">Save Task</string>
+    <string name="preference_file_key">com.utilities.shyamv.todolist.PREFERENCE_FILE_KEY</string>
+</resources>

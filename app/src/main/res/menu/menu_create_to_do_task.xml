@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools" tools:context=".CreateToDoTaskActivity">
+<item android:id="@+id/action_cancel_task" android:title="@string/action_cancel_task"
+    android:icon="@drawable/ic_close_white_24dp" app:showAsAction="always" />
+<item android:id="@+id/action_save_task" android:title="@string/action_save_task"
+    android:icon="@drawable/ic_done_white_24dp" app:showAsAction="always" />
+</menu>
