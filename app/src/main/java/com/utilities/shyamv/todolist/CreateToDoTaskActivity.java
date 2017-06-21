@@ -22,7 +22,6 @@ import java.util.Date;
 
 public class CreateToDoTaskActivity extends AppCompatActivity implements View.OnClickListener
 {
-
     EditText titleText;
     EditText toDoTaskText;
     Button datePickerBtn;
